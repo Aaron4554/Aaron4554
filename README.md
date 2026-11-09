@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Profile views since 9-Nov-2026
+![Visitor Count](https://count.getloli.com/@Aaron4554?theme=booru-r6gdrawfriends&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <!--
 **Aaron4554/Aaron4554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
