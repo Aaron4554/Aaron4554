@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 Profile views since 9-Nov-2026
+
 ![Visitor Count](https://count.getloli.com/@Aaron4554?theme=booru-r6gdrawfriends&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
+Commit streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aaron4554)](https://git.io/streak-stats)
 <!--
-**Aaron4554/Aaron4554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
